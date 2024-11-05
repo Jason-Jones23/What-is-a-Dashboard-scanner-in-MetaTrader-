@@ -1,4 +1,5 @@
-# What-is-a-Dashboard-scanner-in-MetaTrader-
+# What is a Dashboard Scanner in MetaTrader
+
 A dashboard scanner is a tool that lets traders monitor multiple currency pairs, stocks, or commodities at the same time, showing key information in one simple view. By adding indicators or Expert Advisors to the scanner, traders can spot potential trades across different assets without having to check each one individually.  You can visit 4xpip for our products suc as [MT4 Dashboard Scanner](https://4xpip.com/product/forex-scanner-dashboard-scanner-for-mt4-market-scanner/) and [MT5 Dashboard Scanner](https://4xpip.com/product/forex-scanner-dashboard-scanner-for-mt5-market-scanner/). Contact us at our [telegram](https://t.me/pip_4x) for more questions and inquiries. We also have other products related to trading.
 
 
